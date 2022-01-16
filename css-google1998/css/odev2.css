@@ -1,0 +1,36 @@
+body {
+    margin: 5;
+    padding: 0;
+  }
+
+h1 {
+      font-family: Arial, Helvetica, sans-serif;
+      color: #FF0000;
+  }
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FF0000;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.arial {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;  
+}
+
+.bg-red {
+    background-color: red;
+  }
+  
+  .bg-green {
+    background-color: green;
+  }
+  .bg-yellow {
+    background-color: yellow;
+  }
+
