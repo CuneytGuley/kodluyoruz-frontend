@@ -63,8 +63,9 @@ i:hover {
 }
 
 input.content {
+  height: 38px;
+  max-width: 450px;
   border-radius: 40px;
-  height: 45px;
 }
 input.content::placeholder {
   font-weight: bolder;
@@ -73,6 +74,7 @@ input.content::placeholder {
   background-image: url(../assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
+  text-indent: 30px
 }
 
 div.card {
@@ -133,4 +135,5 @@ button.ref:hover {
   font-size: 14px;
   margin-left: 8px;
 }
+
 
